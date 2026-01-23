@@ -56,7 +56,7 @@ Tập đoàn Endfield tuy là phe nhỏ nhưng lại nắm trong tay các **côn
 Nhân vật chính sau đó tiến hành **ngủ đông dài hạn theo chu kỳ** (*cụ thể như thế nào thì vẫn đang là ẩn số*), cho đến lần tỉnh dậy vào **thời điểm hiện tại** (*cách các sự kiện đã kể ở trên hơn 1 thế kỷ*), chính là thời điểm mà mng tham gia trò chơi.
 
 ---
-# REFS
+# CÁC NGUỒN THAM KHẢO
 1. https://endfield.wiki.gg/wiki/Civilization_Band
 2. https://endfield.wiki.gg/wiki/First_Aggeloi_War
 3. https://endfield.wiki.gg/wiki/Aggeloi
@@ -66,5 +66,5 @@ Nhân vật chính sau đó tiến hành **ngủ đông dài hạn theo chu kỳ
 7. https://endfield.wiki.gg/wiki/Talos-II
 8. https://endfield.wiki.gg/wiki/Terra
 9. https://endfield.wiki.gg/wiki/Cosmic_Gate 
-# CHANGELOGS
+# NHẬT KÝ THAY ĐỔI
 - 22/01/2026: Created
