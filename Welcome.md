@@ -12,7 +12,9 @@ Logic:
 
 - target Source: Rely solely on “spooks”.
 
-- Probability Model: When a 6-star appears in subsequent pools, there is a 50% chance of a spook; if spooked, the target character enters the permanent pool. Assuming the permanent pool contains N characters, plus 2 current support characters, totaling N + 2.
+- Probability Model: When a 6-star appears in subsequent pools, there is a 50% chance of a spook;
+	- if spooked, then the target character has to be in the permanent pool.
+	- Assuming the permanent pool contains N characters, plus 2 current support characters, totaling N + 2.
 
     Expected single pull hit rate: $\text{Six-Star Expected Hit} \div (0.5 \times \frac{1}{N_{std} + 2})$.
 
