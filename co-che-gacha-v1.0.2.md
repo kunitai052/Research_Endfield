@@ -60,6 +60,7 @@ Giờ ta hãy tính xác suất nổ được nhân vật ta cần trong trườ
 $\Rightarrow$ Vậy xác suất sẽ là: $$\text{Xác suất nổ 6 sao} \times 50\% \times \frac{1}{N + 2}$$
 # 3. TÍNH XÁC SUẤT ĐỂ LÀM GÌ
 >*Oke, mình nghĩ tới đây chắc mng sẽ hỏi Chin-su viết cái bày này để làm gì đúng k. Mình sẽ liệt kê ra một số lí do mà (mình nghĩ là) sẽ thuyết phục được mọi người:*
+>
 >*1. Ờm... mình... bị rảnh đấy -_-*
 >
 >*2. Từ công thức này, mọi người có thể thiết kế được một **máy tính tỉ lệ nổ nhân vật**, như [anh fap sư này](https://endfield-gacha-calculator.vercel.app/)*
