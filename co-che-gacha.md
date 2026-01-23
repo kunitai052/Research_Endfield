@@ -7,7 +7,7 @@ status:
 tags:
   - Self-Research
 ---
-# GIỚI THIỆU SƠ BỘ VỀ CƠ CHẾ CHIÊU MỘ NHÂN VẬT CỦA TRÒ CHƠI `ARKNIGHT: ENDFIELD`
+# GIỚI THIỆU VỀ CƠ CHẾ CHIÊU MỘ NHÂN VẬT CỦA TRÒ CHƠI `ARKNIGHT: ENDFIELD`
 >*Đây là một bài viết để giải thích về cơ chế "gacha" của `Endfield` tới từ một người chưa từng động tay chơi 1 game gacha nào ngoài mấy con mì ăn liền như Rise Of Kingdoms~*
 
 Nội dung trong bài được tham khảo phần lớn từ bài [Arknight: Giải thích chi tiết về logic của Thuật toán rút thẻ](https://github.com/mark9804/endfield-gacha-calculator/tree/main/src/utils) của **một fap sư tung của** 🙏
@@ -39,22 +39,15 @@ Cứ **mỗi 240 lần quay trong 1 vòng quay** (lần quay thứ 240, 480...),
 >Đây là một **cơ chế đặc biệt**, khi kích hoạt sẽ **không đặt lại** tỉ lệ bảo hiểm đã tích lũy của người chơi (*nhưng vẫn vô hiệu hóa `Nổ 120`*).
 # 2. Tính Xác suất Nổ 6 sao 🧮
 ## 2.1 Trường hợp 1: Nổ trong Vòng quay Giới hạn 🎡
-Các cơ chế đặc biệt áp dụng:
+Các cơ chế đặc biệt có thể áp dụng trong trường hợp này:
 - `Nổ 120`
 - `Nổ tích lũy 240`
 
 $\Rightarrow$ `Nổ 6 sao = Tỉ lệ Nổ (+ Tỉ lệ Bảo hiểm) + Tỉ lệ Nổ trúng (50-50) + Cơ chế đặc biệt`.
 ## 2.2 Trường hợp 2: Nổ ngoài Vòng quay Giới hạn 💥
-
-Condition: Current investment has reached the cap, but the target potential remains unmet.
-
-Logic:
-
-    No longer receive 120 wells (new wells from pools go to new characters).
-
-    No longer receive 240 bonus (new bonuses from pools go to new characters).
-
-    Target Source: Rely solely on “spooks”.
+Khi hết vòng quay giới hạn, nhân vật chính của vòng quay đó sẽ **có khả năng được cho xuất hiện trở lại** trong **vòng quay thường**. Nếu người chơi có thể chiêu mộ được họ trong vòng quay thường, lần quay đó sẽ được gọi là **"Nổ hù" (Spook)**
+- Bởi vòng quay giới hạn và vòng quay thường là **2 loại vòng quay khác nhau**, các điểm cộng dồn từ Bảo hiểm và cơ chế đặc biệt mà người chơi tích lũy được trong vòng quay giới hạn sẽ được **kế thừa trong vòng quay giới hạn mới**, không ảnh hưởng đến vòng quay thường.
+- Tức là, vòng quay thường sẽ có bộ đếm Bảo hiểm, `Nổ 120` và `Nổ tích lũy 240` riêng, **không liên quan đến vòng quay giới hạn**.
 
     Probability Model: When a 6-star appears in subsequent pools, there is a 50% chance of a spook; if spooked, the target character enters the permanent pool. Assuming the permanent pool contains N characters, plus 2 current support characters, totaling N + 2.
 
