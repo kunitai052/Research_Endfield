@@ -54,7 +54,7 @@ Khi hết vòng quay giới hạn, nhân vật đại diện của vòng quay đ
 	- *Bạn hiểu vấn đề rồi đúng k, để quay được 1 nhân vật đại diện trong một vòng quay giới hạn mà họ không phải là đại diện, ta phải **nổ lệch*** 🤡
 
 Giờ ta hãy tính xác suất nổ được nhân vật ta cần trong trường hợp này nào: 
-- Như đã nói từ nãy, xác suất **nổ lệch** trong **1 lần nổ 6 sao** là $50\%$
+- Như đã nói từ nãy, xác suất **nổ lệch** trong **1 lần nổ 6 sao** là 50%
 - Giả sử vòng quay thường có $N$ nhân vật 6 sao vĩnh viễn, xác suất để **1 lần nổ lệch 6 sao ra đúng nhân vật đại diện ta cần** sẽ là $\frac{1}{N + 2}$.
 
 $`\Rightarrow \text{Vậy xác suất sẽ là: Xác suất nổ 6 sao} \times 50\% \times \frac{1}{N+2}`$
@@ -65,7 +65,7 @@ $`\Rightarrow \text{Vậy xác suất sẽ là: Xác suất nổ 6 sao} \times 5
 >
 >*2. Từ công thức này, mọi người có thể thiết kế được một **máy tính tỉ lệ nổ nhân vật**, như [anh fap sư này](https://endfield-gacha-calculator.vercel.app/)*
 >
->*3. Từ những gì ta đã thảo luận, mng sẽ thấy **mọi tỉ lệ chỉ là tương đối**, chỉ có `Nổ 120` và `Nổ tích lũy 240` mới là **chân ái**, là thứ ta hướng tới trong mỗi lần chiêu mộ nhân vật. Hãy tỉnh táo, đừng để rơi vào cạm bẫy của tư bản nhé :3*
+>*3. Từ những gì ta đã thảo luận, mng sẽ thấy **mọi tỉ lệ chỉ là tương đối**, chỉ có `Nổ 120` và `Nổ tích lũy 240` mới là **chân ái**, là thứ ta hướng tới trong mỗi lần chiêu mộ nhân vật. Hãy tỉnh táo, đừng để bị rơi vào cạm bẫy của tư bản nhé :3*
 
 Bài viết tới đây là kết thúc, cảm ơn mọi người đã dành thời gian để đọc, chúc mọi người chơi `Endfield` thật lành mạnh nhé ❤️
 # 🖇️ CÁC NGUỒN THAM KHẢO
