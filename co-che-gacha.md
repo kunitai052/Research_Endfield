@@ -60,17 +60,18 @@ Giờ ta hãy tính xác suất nổ được nhân vật ta cần trong trườ
 - Như đã nói từ nãy, xác suất **nổ lệch** trong **1 lần nổ 6 sao** là $50\%$
 - Giả sử vòng quay thường có $N$ nhân vật 6 sao vĩnh viễn, xác suất để **1 lần nổ lệch 6 sao ra đúng nhân vật đại diện ta cần** sẽ là $\frac{1}{N + 2}$.
 
-$\Rightarrow$ Vậy xác suất sẽ là: $$$$
+$\Rightarrow$ Vậy xác suất sẽ là: $$\text{Xác suất nổ 6 sao} \times 50\% \times \frac{1}{N + 2}$$
+# 3. TÍNH XÁC SUẤT ĐỂ LÀM GÌ
+>*Oke, mình nghĩ tới đây chắc mng sẽ hỏi Chin-su viết cái bày này để làm gì chứ gì. Mình sẽ liệt kê ra một số lí do mà (mình nghĩ là) sẽ thuyết phục được mọi người:*
+>*1. Ờm... mình... bị rảnh đấy -_-*
+>*2. Từ công thức này, mọi người có thể thiết kế được một **máy tính tỉ lệ nổ nhân vật**, như [anh fap sư này](https://endfield-gacha-calculator.vercel.app/)*
+>*3. Từ những gì ta đã thảo luận, mng sẽ thấy **mọi tỉ lệ chỉ là tương đối**, chỉ có `Nổ 120` và `Nổ tích lũy 240` mới là **chân ái**, là thứ ta hướng tới trong mỗi lần chiêu mộ nhân vật. Hãy tỉnh táo, đừng để rơi vào cạm bẫy của tư bản nhé :3*
 
-3. Algorithm Principles
-
-This calculator offers two algorithms for user selection:
-
-
-Target Hit Probability via Twist
-
+Bài viết tới đây là kết thúc, cảm ơn mọi người đã dành thời gian để đọc, chúc mọi người chơi `Endfield` thật lành mạnh nhé ❤️
 # 🖇️ CÁC NGUỒN THAM KHẢO
 1. https://github.com/mark9804/endfield-gacha-calculator/tree/main/src/utils
+2. https://www.reddit.com/r/gachagaming/comments/gm6vpk/what_are_some_general_gacha_gaming_terms_and/
+3. 
 # 📃 NHẬT KÝ THAY ĐỔI
 - Fri, 23/01/2026: Đã tạo bài viết
 \- *Chin-su* \- 
