@@ -21,9 +21,10 @@ Nội dung trong bài viết  được tham khảo phần lớn từ bài [Arkni
 - **Mỗi lần quay** tốn: 500 Crystalline Jade.
 - Tỉ lệ nổ **nhân vật 6 sao** ($P_{base}$): 0.8%.
 - **Bảo hiểm Mềm** (Soft Pity): Bắt đầu từ lần quay **thứ 66**, tỉ lệ nổ 6 sao sẽ **tăng thêm 5% cho mỗi lần quay xịt**.
-- **Bảo hiểm Cứng** (Hard Pity): Lần quay **thứ 80** chắc chắn sẽ nổ được 6 sao (actually 75.8% + 0.8% by the 79th pull).
-
-    Rate Up: 50% chance of being the current UP, 50% chance of being non-UP.
+- **Bảo hiểm Cứng** (Hard Pity): Tỉ lệ bảo hiểm **đạt mốc tối đa** tại lần quay **thứ 80** (đo được là $75.8\% + 0.8\% = 83.6\%$).
+	- Tỉ lệ cho lần thứ 79 là: $0.8\% + (79 - 66) \times 5\% = 75\%$
+	- Tỉ lệ từ lần thứ 80, thay vì tiếp tục $+5\%$ thì chỉ được $+0.8\%$
+- **Nổ trúng** (Rate Up): Khi nổ 6 sao, chỉ có 50% **nổ trúng nhân vật được quảng cáo** 50% chance of being the current UP, 50% chance of being non-UP.
 
 Note: This game currently lacks a “Grand Pity” mechanism (where a miss guarantees a hit next time). Each pull is an independent 50/50 event.
 1.2 Special Mechanics
