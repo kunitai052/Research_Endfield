@@ -43,7 +43,7 @@ Các cơ chế đặc biệt có thể áp dụng trong trường hợp này:
 - `Nổ 120`
 - `Nổ tích lũy 240`
 
-$\Rightarrow$ `Nổ 6 sao = Tỉ lệ Nổ (+ Tỉ lệ Bảo hiểm) + Tỉ lệ Nổ trúng (50-50) + Cơ chế đặc biệt`.
+$\Rightarrow$ `Nổ 6 sao = Tỉ lệ Nổ (+ Tỉ lệ Bảo hiểm) * Tỉ lệ Nổ trúng (50%) + Cơ chế đặc biệt`.
 ## 2.2 Trường hợp 2: Nổ ngoài Vòng quay Giới hạn 💥
 Khi hết vòng quay giới hạn, nhân vật chính của vòng quay đó sẽ **có khả năng được cho xuất hiện trở lại** trong **vòng quay thường**. Nếu người chơi có thể chiêu mộ được họ trong vòng quay thường, lần quay đó sẽ được gọi là **"Nổ hù" (Spook)**
 - Bởi vòng quay giới hạn và vòng quay thường là **2 loại vòng quay khác nhau**, các điểm cộng dồn từ Bảo hiểm và cơ chế đặc biệt mà người chơi tích lũy được trong vòng quay giới hạn sẽ được **kế thừa trong vòng quay giới hạn mới**, không ảnh hưởng đến vòng quay thường.
