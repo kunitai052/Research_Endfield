@@ -20,3 +20,4 @@ Nội dung trong bài viết  được tham khảo phần lớn từ bài [Arkni
 1. https://github.com/mark9804/endfield-gacha-calculator/tree/main/src/utils
 # 📃 NHẬT KÝ THAY ĐỔI
 - Fri, 23/01/2026: Đã tạo bài viết
+\- *Chin-su* \- 
