@@ -57,7 +57,7 @@ Giờ ta hãy tính xác suất nổ được nhân vật ta cần trong trườ
 - Như đã nói từ nãy, xác suất **nổ lệch** trong **1 lần nổ 6 sao** là $50\%$
 - Giả sử vòng quay thường có $N$ nhân vật 6 sao vĩnh viễn, xác suất để **1 lần nổ lệch 6 sao ra đúng nhân vật đại diện ta cần** sẽ là $\frac{1}{N + 2}$.
 
-$\Rightarrow$ Vậy xác suất sẽ là: $\text{Xác suất nổ 6 sao} \times 50\% \times \frac{1}{N + 2}$
+$`\Rightarrow \text{Vậy xác suất sẽ là: Xác suất nổ 6 sao} \times 50\% \times \frac{1}{N+2}`$
 # 3. TÍNH XÁC SUẤT ĐỂ LÀM GÌ
 >*Oke, mình nghĩ tới đây chắc mng sẽ hỏi Chin-su viết cái bày này để làm gì đúng k. Mình sẽ liệt kê ra một số lí do mà (mình nghĩ là) sẽ thuyết phục được mọi người:*
 >
