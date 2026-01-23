@@ -3,7 +3,7 @@ aliases:
   - Cơ chế chiêu mộ nhân vật Endfield
 date-created: Fri, 23/01/2026 | 14:34:16 (GMT+07:00)
 status:
-  - Đang viết/Đã hoàn thiện/Đã hoàn thành 
+  - Đã hoàn thành
 tags:
   - Self-Research
   - Arknight
