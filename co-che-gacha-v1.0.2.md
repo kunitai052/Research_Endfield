@@ -9,10 +9,8 @@ tags:
 - Arknight
 - Endfield
 ---
-
 # GIỚI THIỆU VỀ CƠ CHẾ CHIÊU MỘ NHÂN VẬT CỦA TRÒ CHƠI `ARKNIGHT: ENDFIELD`
-
- > 
+ >
  > *Đây là một bài viết để giải thích về cơ chế "gacha" của `Endfield` tới từ một người chưa từng động tay chơi 1 game gacha nào ngoài mấy con mì ăn liền như Rise Of Kingdoms~*
 
 Nội dung trong bài được tham khảo phần lớn từ bài viết ["Arknight: Giải thích chi tiết về logic của Thuật toán rút thẻ"](https://github.com/mark9804/endfield-gacha-calculator/tree/main/src/utils) của **một fap sư tung của** 🙏
@@ -46,10 +44,7 @@ Nội dung trong bài được tham khảo phần lớn từ bài viết ["Arkni
 ## 1.2.1. Nổ 120 🧧
 
 Nếu sau **119 lượt quay** mà vẫn chưa nổ **nhân vật đại diện**, lần thứ 120 sẽ **chắc chắn nổ ra nhân vật này**.
-
-=======
 * Cơ chế chỉ áp dụng **1 lần** cho **mỗi vòng quay giới hạn**. Nếu người chơi đã nổ nhân vật đại diện trong vòng quay này (bất kể bằng cơ chế `Nổ 120` hay [cơ chế thường](#11-Tỉ-lệ-Cơ-bản-và-Hệ-thống-Bảo-hiểm-)), `Nổ 120` vẫn sẽ bị **vô hiệu hóa đến hết vòng quay**.
->>>>>>> origin/main
 
 ## 1.2.2. Nổ tích lũy 240 ↗️
 
