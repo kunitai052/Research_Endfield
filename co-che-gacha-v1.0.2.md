@@ -28,7 +28,7 @@ Nội dung trong bài được tham khảo phần lớn từ bài viết ["Arkni
 # 1. CƠ CHẾ CHIÊU MỘ CỦA TRÒ CHƠI 💳
 
  > 
- > Các nội dung bên dưới đang nói tới **Vòng quay Giới hạn (Limited Banner)**, một dạng chiêu mộ nhân vật chỉ tồn tại trong **1 khoảng thời gian nhất định**. Mỗi vòng quay giới hạn sẽ có một **nhân vật đại diện**, là nhân vật 6 sao người chơi **chắc chắn** nhận được khi đạt các điều kiện của các [cơ chế đặc biệt](#1.2.%20Các%20Cơ%20chế%20Đặc%20biệt%20✨).
+ > Các nội dung bên dưới đang nói tới **Vòng quay Giới hạn (Limited Banner)**, một dạng chiêu mộ nhân vật chỉ tồn tại trong **1 khoảng thời gian nhất định**. Mỗi vòng quay giới hạn sẽ có một **nhân vật đại diện**, là nhân vật 6 sao người chơi **chắc chắn** nhận được khi đạt các điều kiện của các [cơ chế đặc biệt](ob-co-che-gacha-v1.0.2.md#1-2-cac-co-che-dac-biet-sparkles).
 
 ## 1.1 Tỉ lệ Cơ bản và Hệ thống Bảo hiểm 💸
 
