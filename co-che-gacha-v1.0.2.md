@@ -47,7 +47,7 @@ Nội dung trong bài được tham khảo phần lớn từ bài viết ["Arkni
 
 Nếu sau **119 lượt quay** mà vẫn chưa nổ **nhân vật đại diện**, lần thứ 120 sẽ **chắc chắn nổ ra nhân vật này**.
 
-* Cơ chế chỉ áp dụng **1 lần** cho **mỗi vòng quay giới hạn**. Nếu người chơi đã nổ nhân vật đại diện trong vòng quay này (bất kể bằng cơ chế `Nổ 120` hay [cơ chế thường](<#1.1 Tỉ lệ Cơ bản và Hệ thống Bảo hiểm 💸>)), `Nổ 120` vẫn sẽ bị **vô hiệu hóa đến hết vòng quay**.
+* Cơ chế chỉ áp dụng **1 lần** cho **mỗi vòng quay giới hạn**. Nếu người chơi đã nổ nhân vật đại diện trong vòng quay này (bất kể bằng cơ chế `Nổ 120` hay [cơ chế thường](#11-Tỉ-lệ-Cơ-bản-và-Hệ-thống-Bảo-hiểm)), `Nổ 120` vẫn sẽ bị **vô hiệu hóa đến hết vòng quay**.
 
 ## 1.2.2. Nổ tích lũy 240 ↗️
 
