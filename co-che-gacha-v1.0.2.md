@@ -10,7 +10,7 @@ tags:
 - Endfield
 ---
 # GIỚI THIỆU VỀ CƠ CHẾ CHIÊU MỘ NHÂN VẬT CỦA TRÒ CHƠI `ARKNIGHT: ENDFIELD`
- >
+ 
  > *Đây là một bài viết để giải thích về cơ chế "gacha" của `Endfield` tới từ một người chưa từng động tay chơi 1 game gacha nào ngoài mấy con mì ăn liền như Rise Of Kingdoms~*
 
 Nội dung trong bài được tham khảo phần lớn từ bài viết ["Arknight: Giải thích chi tiết về logic của Thuật toán rút thẻ"](https://github.com/mark9804/endfield-gacha-calculator/tree/main/src/utils) của **một fap sư tung của** 🙏
