@@ -33,7 +33,7 @@ Nội dung trong bài được tham khảo phần lớn từ bài viết ["Arkni
 * **Mỗi lần quay** tốn: 500 Crystalline Jade.
 * Tỉ lệ nổ **nhân vật 6 sao** gốc: 0.8%.
 * **Bảo hiểm Mềm** (Soft Pity): Bắt đầu từ lần quay **thứ 66**, tỉ lệ nổ 6 sao sẽ **tăng thêm 5% cho mỗi lần quay xịt**.
-* **Bảo hiểm Cứng** (Hard Pity): Tỉ lệ Bảo hiểm **đạt mốc tối đa** tại lần quay **thứ 80** (ước tính là 75.8% + 0.8% = 83.6%).
+* **Bảo hiểm Cứng** (Hard Pity): Tỉ lệ Bảo hiểm **đạt mốc tối đa** tại lần quay **thứ 80** (ước tính là 75.8% + 0.8% = 76.6%).
   * Tỉ lệ cho lần thứ 79 là: $`0.8\% + (79 - 66) \times 5\% = 75.8\%`$
   * Tỉ lệ áp dụng cho lần thứ 80 trở đi, thay vì tiếp tục +5% thì chỉ được +0.8%
 * **Nổ trúng** (Rate Up): Khi nổ 6 sao, chỉ có 50% **nổ trúng banner** (nhân vật **đại diện** của vòng quay) 50% còn lại sẽ là một nhân vật 6 sao khác (lúc này gọi là **"nổ lệch" hay "lệch rate"**).
